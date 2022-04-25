@@ -1,0 +1,15 @@
+<HTML>
+ <HEAD>
+ <STYLE>
+   H1{font-family:forte;text-decoration:linethrough;}
+   B{text-decoration:overline;}
+ </STYLE>
+ </HEAD>
+ <BODY>
+   <H1>RCPET's IMRD</H1>
+   <B>FYBCA-B</B>
+   <H2 style="font-family:helv;background-color:pink;">
+     This is an Example of INLINE CSS
+	</H2>
+ </BODY>
+</HTML>

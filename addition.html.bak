@@ -1,0 +1,15 @@
+<html>
+<body>
+<script>
+             var a,b,c;
+			 function demo()
+{
+    a=5;
+	b=5;
+	c=a+b;
+	document.write("your addition is="+c);
+}
+ demo()
+ </script>
+ </body>
+ </html>

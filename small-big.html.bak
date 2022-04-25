@@ -1,0 +1,29 @@
+<html>
+<head>
+<body>
+<script type="text/javascript">
+function test()
+{
+  var result a,b,c
+  a=document.f1.t1.value;
+  b=document.f1.t1.value;
+  c=a+b;
+  document.write(c);
+  if(result>=40)
+  {
+    document.write("big");
+  }
+  else
+  {
+    document.write("small");
+   }
+}
+</script>
+</body>
+<form name="f1">
+enter number<input type="text"  name="t1"><br>
+enter number	<input type="text"  name="t2"><br>
+						<input type="button" value="click me">
+</form>
+</body>
+</html>

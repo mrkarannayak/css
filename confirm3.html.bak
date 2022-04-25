@@ -1,0 +1,22 @@
+<html>
+<head>
+<body>
+<script type="text/javascript">
+function test()
+{
+  var a=window.confirm("your choice?")
+  if(a)
+  {
+    alert("yes");
+	}
+	else
+	{
+	 alert("no");
+}
+  }
+  </script>
+  <form name="f1">
+  <input type="button" value="click me"onclick="test()">
+  </form>
+  </body>
+  </html>

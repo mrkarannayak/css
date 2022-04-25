@@ -1,0 +1,19 @@
+<HTML>
+ <BODY>
+  <SCRIPT>
+     funtion demo()
+	 {
+	 var txt;
+	 if (confirm("Confirm Notification press Yes/Cancel"))
+	 {
+	   document.write("Wel Come!");
+	 }
+	 else 
+	 {
+	   document.write("are you sure to cancel it");
+	 }
+	 }
+	 demo();
+  </SCRIPT>
+ </BODY>
+</HTML>

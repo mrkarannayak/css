@@ -1,0 +1,16 @@
+<HTML>
+ <BODY>
+  <SCRIPT type = "text/javascript">
+  function test()
+    {
+	     varfvalue = parselnt(window.prompt("Enter the Number"));
+		 varsvalue = parselnt(window.prompt("Enter the 2nd Number"));
+		 c = fvalue+svalue;
+		 alert(c);
+	}
+  </SCRIPT>
+  <form name ="f1">
+   <input type = "checkbox" value = "Click Me" onClick = "test()">
+  </form>
+ </BODY>
+</HTML>

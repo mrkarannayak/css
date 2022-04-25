@@ -1,0 +1,34 @@
+<html>
+<body>
+<script type="text/javascript">
+var a=13;
+var b=23;
+
+document.write("a+b=");
+result=a+b;
+document.write(result+"<br>");
+
+document.write("a-b=");
+result=a-b;
+document.write(result+"<br>");
+
+document.write("a/b=");
+result=a/b;
+document.write(result+"<br>");
+
+document.write("a%b=");
+result=a%b;
+document.write(result+"<br>");
+
+a=++a;
+document.write("++a=");
+result=++a;
+document.write(result+"<br>");
+
+b=--b;
+document.write("--b=");
+result=--b;
+document.write(result+"<br>");
+</script>
+</body>
+</html>
